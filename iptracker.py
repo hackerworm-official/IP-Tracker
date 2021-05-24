@@ -16,9 +16,6 @@ print(f"""
                                 Telegram Channel: @hackingworm                                              
                                                                                             """)
 
-
-webbrowser.open("https://t.me/hackingworm")
-
 while True:
     ip=input("Which IP would you like to check sir ? : ")
     url= "http://ip-api.com/json/"
