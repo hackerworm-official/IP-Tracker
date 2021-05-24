@@ -1,0 +1,3 @@
+﻿urllib.request
+json
+webbrowser
