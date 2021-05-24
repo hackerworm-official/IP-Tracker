@@ -17,7 +17,7 @@ print(f"""
                                                                                             """)
 
 while True:
-    ip=input("Which IP would you like to check sir ? : ")
+    ip=input("Which IP would you like to check ? : ")
     url= "http://ip-api.com/json/"
     response = ur.urlopen(url + ip)
     data = response.read()
