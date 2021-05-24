@@ -1,4 +1,4 @@
-# IP-Tra
+# IP-Tracker
 ## _Helps to locate th IP address_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
